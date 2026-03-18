@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 # Privacy Policy — PhaseOps
 
 **Last updated:** December 16, 2025
